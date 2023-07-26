@@ -3,7 +3,6 @@ It’s a console based application built as a 1st year university project. For t
 
 ## Features
 
-- Show A Particular player information
 - Add, Delete and Update a Student
 - Add, Delete and Update a Course
 - Add, Delete and Update a Faculty
